@@ -105,11 +105,4 @@ Contributions are welcome! To contribute:
    ```bash  
    git push origin feature-name  
    ```  
-5. Open a pull request detailing your changes.  
 
----
-
-## Contact  
-
-For support or inquiries:  
-- **GitHub**: [kneeraazon404](https://github.com/kneeraazon404)  
